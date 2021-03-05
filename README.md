@@ -1,6 +1,6 @@
 # CHOICE MANAGER
 ## Description
-**Choice Manager** is a site that helps students making choices based on passion, skills and ![gif1](https://i.postimg.cc/3w5KPMNv/ezgif-com-gif-maker-4.gif) an open mind. The site presents a structured way, in which you will discover new things about yourself and making it clear where you want to take action.  
+**Choice Manager** is a site that helps students making choices based on passion, skills and an open mind. The site presents a structured way, in which you will discover new things about yourself and making it clear where you want to take action.  
 
 **Choice Manager** gives a possibility to:  
 
@@ -15,7 +15,7 @@
 ## Visuals  
 
 - Main page  
-![gif1](https://i.postimg.cc/3w5KPMNv/ezgif-com-gif-maker-4.gif)  
+[![ezgif-com-gif-maker-4.gif](https://i.postimg.cc/3w5KPMNv/ezgif-com-gif-maker-4.gif)](https://postimg.cc/QFmGTyp8)  
 - Testing page  
 ![gif2](https://i.postimg.cc/0jYKDVHF/ezgif-com-gif-maker-3.gif)
 - Goal page  
