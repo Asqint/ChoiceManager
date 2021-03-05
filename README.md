@@ -15,9 +15,9 @@
 ## Visuals  
 
 - Main page  
-[![ezgif-com-gif-maker-4.gif](https://i.postimg.cc/3w5KPMNv/ezgif-com-gif-maker-4.gif)](https://postimg.cc/QFmGTyp8)  
+![gif1](https://i.postimg.cc/wjBfg3yK/ezgif-com-gif-maker-6.gif)  
 - Testing page  
-![gif2](https://i.postimg.cc/3w5KPMNv/ezgif-com-gif-maker-4.gif)
+![gif2](https://i.postimg.cc/0jYKDVHF/ezgif-com-gif-maker-3.gif)
 - Goal page  
 ![gif3](https://i.postimg.cc/k4cB526P/ezgif-com-gif-maker-5.gif)
 
