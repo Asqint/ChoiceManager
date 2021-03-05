@@ -1,0 +1,138 @@
+com/choicemanager/domain/CustomErrorResponse.java
+ com.choicemanager.domain.CustomErrorResponse
+com/choicemanager/payload/ApiResponse.java
+ com.choicemanager.payload.ApiResponse
+com/choicemanager/ChoiceManagerApplication.java
+ com.choicemanager.ChoiceManagerApplication
+com/choicemanager/repository/TaskRepository.java
+ com.choicemanager.repository.TaskRepository
+com/choicemanager/exception/OAuth2AuthenticationProcessingException.java
+ com.choicemanager.exception.OAuth2AuthenticationProcessingException
+com/choicemanager/repository/UserRepository.java
+ com.choicemanager.repository.UserRepository
+com/choicemanager/repository/QuestionRepository.java
+ com.choicemanager.repository.QuestionRepository
+com/choicemanager/config/WebMvcConfig.java
+ com.choicemanager.config.WebMvcConfig
+com/choicemanager/exception/BadRequestException.java
+ com.choicemanager.exception.BadRequestException
+com/choicemanager/config/AppProperties.java
+ com.choicemanager.config.AppProperties
+ com.choicemanager.config.AppProperties$Auth
+ com.choicemanager.config.AppProperties$OAuth2
+com/choicemanager/config/CorsFilter.java
+ com.choicemanager.config.CorsFilter
+com/choicemanager/payload/LoginRequest.java
+ com.choicemanager.payload.LoginRequest
+com/choicemanager/utils/CookieUtils.java
+ com.choicemanager.utils.CookieUtils
+com/choicemanager/domain/AnswerWrapper.java
+ com.choicemanager.domain.AnswerWrapper
+com/choicemanager/security/CurrentUser.java
+ com.choicemanager.security.CurrentUser
+com/choicemanager/security/oauth2/FacebookOAuth2UserInfo.java
+ com.choicemanager.security.oauth2.FacebookOAuth2UserInfo
+com/choicemanager/repository/RoleRepository.java
+ com.choicemanager.repository.RoleRepository
+com/choicemanager/domain/RadarChartElement.java
+ com.choicemanager.domain.RadarChartElement
+com/choicemanager/security/oauth2/OAuth2AuthenticationFailureHandler.java
+ com.choicemanager.security.oauth2.OAuth2AuthenticationFailureHandler
+com/choicemanager/domain/AuthProvider.java
+ com.choicemanager.domain.AuthProvider
+com/choicemanager/security/oauth2/OAuth2UserInfoFactory.java
+ com.choicemanager.security.oauth2.OAuth2UserInfoFactory
+com/choicemanager/domain/GoalWrapper.java
+ com.choicemanager.domain.GoalWrapper
+com/choicemanager/service/MailSender.java
+ com.choicemanager.service.MailSender
+com/choicemanager/security/RestAuthenticationEntryPoint.java
+ com.choicemanager.security.RestAuthenticationEntryPoint
+com/choicemanager/security/oauth2/GoogleOAuth2UserInfo.java
+ com.choicemanager.security.oauth2.GoogleOAuth2UserInfo
+com/choicemanager/security/HttpCookieOAuth2AuthorizationRequestRepository.java
+ com.choicemanager.security.HttpCookieOAuth2AuthorizationRequestRepository
+com/choicemanager/domain/Question.java
+ com.choicemanager.domain.Question
+com/choicemanager/exception/ResourceNotFoundException.java
+ com.choicemanager.exception.ResourceNotFoundException
+com/choicemanager/payload/SignUpRequest.java
+ com.choicemanager.payload.SignUpRequest
+com/choicemanager/utils/ErrorUtils.java
+ com.choicemanager.utils.ErrorUtils
+com/choicemanager/security/oauth2/OAuth2UserInfo.java
+ com.choicemanager.security.oauth2.OAuth2UserInfo
+com/choicemanager/service/RoleService.java
+ com.choicemanager.service.RoleService
+com/choicemanager/domain/Gender.java
+ com.choicemanager.domain.Gender
+com/choicemanager/domain/Category.java
+ com.choicemanager.domain.Category
+com/choicemanager/domain/Role.java
+ com.choicemanager.domain.Role
+com/choicemanager/config/MailConfig.java
+ com.choicemanager.config.MailConfig
+com/choicemanager/service/RadarChartService.java
+ com.choicemanager.service.RadarChartService
+com/choicemanager/repository/AnswerRepository.java
+ com.choicemanager.repository.AnswerRepository
+com/choicemanager/domain/Answer.java
+ com.choicemanager.domain.Answer
+com/choicemanager/controller/UserController.java
+ com.choicemanager.controller.UserController
+com/choicemanager/domain/UserRadarChartDTO.java
+ com.choicemanager.domain.UserRadarChartDTO
+com/choicemanager/domain/RadarChart.java
+ com.choicemanager.domain.RadarChart
+com/choicemanager/security/TokenAuthenticationFilter.java
+ com.choicemanager.security.TokenAuthenticationFilter
+com/choicemanager/domain/UserDto.java
+ com.choicemanager.domain.UserDto
+com/choicemanager/controller/RegistrationController.java
+ com.choicemanager.controller.RegistrationController
+com/choicemanager/payload/AuthResponse.java
+ com.choicemanager.payload.AuthResponse
+com/choicemanager/service/CustomOAuth2UserService.java
+ com.choicemanager.service.CustomOAuth2UserService
+com/choicemanager/domain/UserPrincipal.java
+ com.choicemanager.domain.UserPrincipal
+com/choicemanager/controller/TestController.java
+ com.choicemanager.controller.TestController
+com/choicemanager/service/UserService.java
+ com.choicemanager.service.UserService
+com/choicemanager/security/TokenProvider.java
+ com.choicemanager.security.TokenProvider
+com/choicemanager/repository/CategoryRepository.java
+ com.choicemanager.repository.CategoryRepository
+com/choicemanager/service/TestService.java
+ com.choicemanager.service.TestService
+com/choicemanager/domain/User.java
+ com.choicemanager.domain.User
+com/choicemanager/domain/RadarChartJsonSerializer.java
+ com.choicemanager.domain.RadarChartJsonSerializer
+com/choicemanager/domain/CategoryWrapper.java
+ com.choicemanager.domain.CategoryWrapper
+com/choicemanager/controller/AuthController.java
+ com.choicemanager.controller.AuthController
+com/choicemanager/service/AuthenticationService.java
+ com.choicemanager.service.AuthenticationService
+com/choicemanager/security/oauth2/OAuth2AuthenticationSuccessHandler.java
+ com.choicemanager.security.oauth2.OAuth2AuthenticationSuccessHandler
+com/choicemanager/controller/ActivationController.java
+ com.choicemanager.controller.ActivationController
+com/choicemanager/config/WebSecurityConfig.java
+ com.choicemanager.config.WebSecurityConfig
+com/choicemanager/domain/Task.java
+ com.choicemanager.domain.Task
+com/choicemanager/domain/GoalDto.java
+ com.choicemanager.domain.GoalDto
+com/choicemanager/controller/ProfileController.java
+ com.choicemanager.controller.ProfileController
+com/choicemanager/repository/GoalRepository.java
+ com.choicemanager.repository.GoalRepository
+com/choicemanager/service/GoalService.java
+ com.choicemanager.service.GoalService
+com/choicemanager/controller/GoalController.java
+ com.choicemanager.controller.GoalController
+com/choicemanager/domain/Goal.java
+ com.choicemanager.domain.Goal

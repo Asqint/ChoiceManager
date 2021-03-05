@@ -1,0 +1,2 @@
+com/choicemanager/ChoiceManagerApplicationTests.java
+ com.choicemanager.ChoiceManagerApplicationTests
