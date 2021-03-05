@@ -17,7 +17,7 @@
 - Main page  
 [![ezgif-com-gif-maker-4.gif](https://i.postimg.cc/3w5KPMNv/ezgif-com-gif-maker-4.gif)](https://postimg.cc/QFmGTyp8)  
 - Testing page  
-![gif2](https://i.postimg.cc/0jYKDVHF/ezgif-com-gif-maker-3.gif)
+![gif2](https://i.postimg.cc/3w5KPMNv/ezgif-com-gif-maker-4.gif)
 - Goal page  
 ![gif3](https://i.postimg.cc/k4cB526P/ezgif-com-gif-maker-5.gif)
 
